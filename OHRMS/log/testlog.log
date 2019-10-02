@@ -1,0 +1,26 @@
+2019-10-01 20:49:55,461 - com.OHRMS.testcasescripts.LoginPageTest -INFO - initialization started
+2019-10-01 20:50:02,236 - com.OHRMS.testcasescripts.LoginPageTest -INFO - title validation started
+2019-10-01 20:50:02,658 - com.OHRMS.testcasescripts.LoginPageTest -INFO - login screenshot captured
+2019-10-02 13:23:55,316 - com.OHRMS.testcasescripts.LoginPageTest -INFO - initialization started
+2019-10-02 13:24:04,320 - com.OHRMS.testcasescripts.LoginPageTest -INFO - title validation started
+2019-10-02 13:24:04,765 - com.OHRMS.testcasescripts.LoginPageTest -INFO - login screenshot captured
+2019-10-02 13:24:27,352 - com.OHRMS.testcasescripts.LoginPageTest -INFO - initialization started
+2019-10-02 13:24:34,670 - com.OHRMS.testcasescripts.LoginPageTest -INFO - title validation started
+2019-10-02 13:24:44,476 - com.OHRMS.testcasescripts.HomePageTest -INFO - homepage screenshot captured
+2019-10-02 13:24:44,850 - com.OHRMS.testcasescripts.LoginPageTest -INFO - login screenshot captured
+2019-10-02 14:18:30,241 - com.OHRMS.testcasescripts.LoginPageTest -INFO - initialization started
+2019-10-02 14:18:39,057 - com.OHRMS.testcasescripts.LoginPageTest -INFO - title validation started
+2019-10-02 14:18:50,971 - com.OHRMS.testcasescripts.HomePageTest -INFO - homepage screenshot captured
+2019-10-02 14:18:51,330 - com.OHRMS.testcasescripts.LoginPageTest -INFO - login screenshot captured
+2019-10-02 14:21:56,499 - com.OHRMS.testcasescripts.LoginPageTest -INFO - initialization started
+2019-10-02 14:22:04,334 - com.OHRMS.testcasescripts.LoginPageTest -INFO - title validation started
+2019-10-02 14:22:15,371 - com.OHRMS.testcasescripts.HomePageTest -INFO - homepage screenshot captured
+2019-10-02 14:22:15,706 - com.OHRMS.testcasescripts.LoginPageTest -INFO - login screenshot captured
+2019-10-02 21:48:18,257 - com.OHRMS.testcasescripts.LoginPageTest -INFO - initialization started
+2019-10-02 21:48:26,680 - com.OHRMS.testcasescripts.LoginPageTest -INFO - title validation started
+2019-10-02 21:48:35,979 - com.OHRMS.testcasescripts.HomePageTest -INFO - homepage screenshot captured
+2019-10-02 21:48:36,443 - com.OHRMS.testcasescripts.LoginPageTest -INFO - login screenshot captured
+2019-10-02 22:23:08,761 - com.OHRMS.testcasescripts.LoginPageTest -INFO - initialization started
+2019-10-02 22:23:15,849 - com.OHRMS.testcasescripts.LoginPageTest -INFO - title validation started
+2019-10-02 22:23:26,246 - com.OHRMS.testcasescripts.HomePageTest -INFO - homepage screenshot captured
+2019-10-02 22:23:26,651 - com.OHRMS.testcasescripts.LoginPageTest -INFO - login screenshot captured
